@@ -5,3 +5,8 @@
 1. 基礎データ分析演習
 2. ネットワーク分析演習
 3. テキスト分析演習
+
+This repository includes modified data originally released under the MIT License.
+
+Original copyright:
+Copyright (c) 2023 Gina Sprint
